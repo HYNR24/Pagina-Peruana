@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 30px; /* Espacio debajo de la barra de navegación */
+}
+
+.section {
+    padding: 50px 0;
+    color: #000;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.btn-warning {
+    color: #fff;
+    background-color: #ff9900; /* Color de fondo del botón */
+}
+
+.bg-light {
+    background-color: #f8f9fa; /* Color de fondo claro para la sección de orden */
+}
+
+.list-group-item {
+    font-size: 1.2rem; /* Aumenta el tamaño de la fuente en la lista de pedidos */
+}
